@@ -18,3 +18,9 @@ Transformers: Hugging Face's library used to perform emotion inference using pre
 Pandas: Data manipulation and analysis library.
 Matplotlib / Seaborn: Libraries for data visualization.
 Jupyter Notebook / Python Script: Environment used for running the code and generating outputs.
+
+
+
+![Figure_1](https://github.com/user-attachments/assets/cc1842e5-c87d-44e0-bed4-e564e14169e9)
+![Figure_2](https://github.com/user-attachments/assets/774e61bd-526c-459e-b9bc-6513d956adee)
+![Figure_3](https://github.com/user-attachments/assets/c91b068d-cd6f-435a-9bd5-0fa4c6bd034e)
